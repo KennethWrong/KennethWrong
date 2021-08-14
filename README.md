@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KennethWrong
-- 👀 I’m interested in Web Designing and Back-end Infrastructure
+- 👀 I’m interested in Web development and Back-end Infrastructure
 - 🌱 I’m currently an undergraduate student in Purdue University, studying 
       Computer Engineering and minoring in CNIT (Computer Network and Information Technology)
 - 💞️ I’m looking to collaborate on projects that involves CI/CD pipelining or any backend infrastructure
