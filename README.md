@@ -9,7 +9,7 @@
 
 What I'm working on right now:
 - FullStack bootcamp (React, MongoDB, Node)
-- Create my own chat app using React, MongoDB, SCSS, Node and HTML.
+- Maybe creating an app with react-native :o (possible start up idea)
 - Learning Python :D **Yes, Finally getting on the hype-train**
 <!---
 KennethWrong/KennethWrong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
