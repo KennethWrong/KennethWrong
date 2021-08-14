@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web development and Back-end Infrastructure
 - 🌱 I’m currently an undergraduate student in Purdue University, studying 
       Computer Engineering and minoring in CNIT (Computer Network and Information Technology)
-- 💞️ I’m looking to collaborate on projects that involves CI/CD pipelining or any backend infrastructure
+- 💞️ I’m looking to collaborate on projects that involves web development or machine learning 
 - 📫 How to reach me:
     - cankennethwong@gmail.com
     - Instagram @mayolover07
