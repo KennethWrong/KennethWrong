@@ -8,8 +8,7 @@
     - Instagram @mayolover07
 
 What I'm working on right now:
-- FullStack bootcamp (React, MongoDB, Node)
-- Maybe creating an app with react-native :o (possible start up idea)
+- KookBook
 - Learning Python :D **Yes, Finally getting on the hype-train**
 <!---
 KennethWrong/KennethWrong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
