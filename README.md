@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on projects that involves web development or machine learning 
 - 📫 How to reach me:
     - cankennethwong@gmail.com
-    - Instagram @mayolover07
+    - Instagram @werunm.env
 
 What I'm working on right now:
 - KookBook
