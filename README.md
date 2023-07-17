@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KennethWrong
 - 👀 I’m interested in Machine Learning and Deep Learning
-- 🌱 Graduate @ Purdue University, BSC. Computer Engineering and minor in CNIT (Computer Network and Information Technology)
+- 🌱 BSc. Computer Engineering and minor in CNIT (Computer Network and Information Technology) @ Purdue University 
 - 💞️ I’m looking to collaborate on projects that involve NLP or Computer Vision
 - 📫 How to reach me:
     - cankennethwong@gmail.com
