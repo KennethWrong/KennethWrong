@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kenneth</h1>
 <h3 align="center">A backend engineer focused on building scalable systems</h3>
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnhhb3VteDNybzQ4bXJyaDBtYml1bWR1cHB3MHU4aWQzMzVxOHNtdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KWcGnX2iz0G1fMMHrO/giphy.gif"/>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kennethwrong&label=Profile%20views&color=0e75b6&style=flat" alt="kennethwrong" /> </p>
 
